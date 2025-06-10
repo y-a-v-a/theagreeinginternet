@@ -1,0 +1,22 @@
+# The Agreeing Internet
+
+## Description
+Internet art piece that transforms disagreement into agreement, saying "yes" to the internet.
+
+## Creators
+- ax710 (https://www.ax710.org/)
+- y-a-v-a (https://www.y-a-v-a.org/)
+
+## Date
+2009
+
+## License
+Creative Commons Attribution-ShareAlike 3.0 Netherlands
+https://creativecommons.org/licenses/by-sa/3.0/nl/
+
+## Based On
+"The Disagreeing Internet" by Constant Dullaart
+https://www.thedisagreeinginternet.com/
+
+## Attribution Required
+When referencing this work, please credit ax710 & y-a-v-a and include the Creative Commons license.
