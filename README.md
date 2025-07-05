@@ -1,6 +1,6 @@
 # The Agreeing Internet
 
-***The Agreeing Internet*** is a digital art project that presents an optimistic counterpoint to negativity on the web. The website features a gently animated frame that "agrees" with the content it displays, creating a playful and positive browsing experience.
+**_The Agreeing Internet_** is a digital art project that presents an optimistic counterpoint to negativity on the web. The website features a gently animated frame that "agrees" with the content it displays, creating a playful and positive browsing experience.
 
 ## About
 
@@ -22,3 +22,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Nethe
 ## Credits
 
 Based on the original work at [www.thedisagreeinginternet.com](http://www.thedisagreeinginternet.com/) by [Constant Dullaart](http://www.constantdullaart.com/).
+
+## Code
+
+Vincent Bruijn <vebruijn@gmail.com> • [y-a-v-a.org](https://www.y-a-v-a.org) • (c) 2009
